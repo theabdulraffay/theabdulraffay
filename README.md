@@ -24,3 +24,7 @@
 <p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=theabdulraffay&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="theabdulraffay" /></p> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theabdulraffay&&theme=github-dark-blue)](https://git.io/streak-stats)
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/theabdulraffay.svg)](https://user-badge.committers.top/pakistan/theabdulraffay)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theabdulraffay&label=Profile%20views&color=0e75b6&style=flat" alt="theabdulraffay" /> </p>

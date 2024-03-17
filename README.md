@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Abdul Raffay</h1>
-<h3 align="center">A passionate mobile app developer</h3>
+<h3 align="center">Learning Data Structure and Algorithm</h3>
 <h3 align="center">Second Year Computer Science Student from COMSATS UNIVERSITY ISLAMABAD</h3>
 
 - 🔭 I’m currently working on **advance problem solving**
